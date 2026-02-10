@@ -1,4 +1,4 @@
-# 🧟 Roguelike Action Game (좀비고 스타일 로그라이크)
+# 🧟 Dungeon (좀비고 스타일 로그라이크)
 
 ## 📖 프로젝트 소개
 
